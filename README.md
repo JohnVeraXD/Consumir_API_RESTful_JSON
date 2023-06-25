@@ -4,4 +4,8 @@ Implementar una aplicación nativa Android que muestre la información de una AP
 
 Puede usar cualquiera de las 3 librerías vista en clases: Google Volley, HttpRequest o Retrofit
 
+Se hizo uso del a libreria : HttpRequest 
+
+Resultado del consumo de API RESTful en formato JSON:
+
 ![image](https://github.com/JohnVeraXD/Consumir_API_RESTful_JSON/assets/108051712/a0fb5105-4ee2-49e1-8c94-e8d44cf3cde1)
